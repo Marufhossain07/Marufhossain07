@@ -18,5 +18,5 @@ I am on a journey to become a skilled programmer and technical expert., driven b
 
 ### Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats-psi-three.vercel.app?user=Marufhossain07)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marufhossain07)](https://git.io/streak-stats)
 
