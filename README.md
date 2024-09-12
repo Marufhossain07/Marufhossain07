@@ -5,7 +5,7 @@
 I am on a journey to become a skilled programmer and technical expert., driven by a passion for creating innovative solutions. My unbreakable dedication to continuous learning fuels my ambition to do well in this exciting field of technology.
 
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m always eager to learn more 
 - 📫 How to reach me: Click Any Social Icon From Below
   </br>
   ### Social:
