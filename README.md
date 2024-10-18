@@ -20,8 +20,9 @@ I am on a journey to become a skilled programmer and technical expert., driven b
 
 ### Github Stats:
 
-
-<img align="center" src="https://streak-stats.herokuapp.com?user=Marufhossain07" alt="Marufhossain07" />
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Marufhossain07" alt="Marufhossain07" />
+</p>
 
 
 
