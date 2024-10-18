@@ -1,7 +1,7 @@
 ![logo](https://github.com/Marufhossain07/Marufhossain07/blob/main/github%20banner.png)
 
 ### Hi there 👋, my name is Maruf
-#### I am a Frontend Developer
+#### I am a Frontend Developer.
 I am on a journey to become a skilled programmer and technical expert., driven by a passion for creating innovative solutions. My unbreakable dedication to continuous learning fuels my ambition to do well in this exciting field of technology.
 
 
