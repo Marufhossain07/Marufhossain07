@@ -21,6 +21,8 @@ I am on a journey to become a skilled programmer and technical expert., driven b
 ### Github Stats:
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Marufhossain07)](https://git.io/streak-stats)
+ <p align="center">
+  <img align="center" src="https://streak-stats.herokuapp.com?user=Marufhossain07" alt="Marufhossain07" />
+</p>
 
 
